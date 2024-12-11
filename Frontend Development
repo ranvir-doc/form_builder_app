@@ -1,0 +1,11 @@
+1. Initialize React Native 
+bash
+
+npx react-native init formBuilderApp
+cd formBuilderApp
+
+2. Install Tailwind CSS
+bash 
+
+npm install tailwindcss react-native-tailwindcss
+
